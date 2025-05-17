@@ -1,4 +1,6 @@
-#Project Based Experiments
+## PROJECT BASED EXPERIMENTS
+## NAME; RANJAN KUMAR G
+## REG NO:212223240138
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
